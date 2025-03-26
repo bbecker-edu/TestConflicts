@@ -6,6 +6,7 @@ int add (int a, int b);
 
 int main() {
     cout << "Hello World!" << endl;
+    cout << "Goodbye!" << endl;
     return 0;
 }
 
